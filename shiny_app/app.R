@@ -23,7 +23,7 @@ means <- colMeans(
 # UI ----------------------------------------------------------------------
 
 ui <- page_sidebar(
-  title = "Palmer Penguins dashboard - 1",
+  title = "Palmer Penguins dashboard - 2",
   sidebar = sidebar(
     varSelectInput(
       "color_by", "Color by", 
